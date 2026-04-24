@@ -1,0 +1,13 @@
+# Data files
+data/
+*.csv
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.DS_Store
