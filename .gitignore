@@ -1,6 +1,6 @@
 # Data files
-data/
-*.csv
+data/*.csv
+!data/*_clean.csv
 
 # Python
 venv/
