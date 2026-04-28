@@ -33,10 +33,10 @@ This repository uses GitHub Actions for continuous integration. The workflow (`.
 
 The workflow passes if all steps complete successfully (green checkmark ✅ in Actions tab).
 To run the same checks locally:
-   ```bash
-    pip install -r requirements.txt
-    python --version
-
+   ```
+pip install -r requirements.txt
+python --version
+```
 ## Contribution & Branching Guidelines
 
 ### Branch Naming Convention
